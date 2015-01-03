@@ -18,7 +18,12 @@ $(call inherit-product, vendor/motorola/shamu/shamu-vendor-blobs.mk)
 
 # Prebuilt APKs
 PRODUCT_PACKAGES += \
-    TimeService
+    TimeService \
+    DMAgent \
+    DMService \
+    UiccWatchdog \
+    LifetimeData \
+    SprintDM
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
