@@ -329,6 +329,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
+    vendor/motorola/shamu/proprietary/vendor/lib/libqmimotext.so:system/vendor/lib/libqmimotext.so \
     vendor/motorola/shamu/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/motorola/shamu/proprietary/bin/ks:system/bin/ks \
     vendor/motorola/shamu/proprietary/bin/mdm_helper:system/bin/mdm_helper \
