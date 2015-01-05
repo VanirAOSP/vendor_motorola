@@ -301,6 +301,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/motorola/shamu/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/motorola/shamu/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/motorola/shamu/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/motorola/shamu/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_0000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_0000 \
     vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_0001:system/bin/qmi-framework-tests/qmi_ping_clnt_test_0001 \
     vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_1000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_1000 \
@@ -329,7 +331,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
-    vendor/motorola/shamu/proprietary/vendor/lib/libqmimotext.so:system/vendor/lib/libqmimotext.so \
     vendor/motorola/shamu/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/motorola/shamu/proprietary/bin/ks:system/bin/ks \
     vendor/motorola/shamu/proprietary/bin/mdm_helper:system/bin/mdm_helper \
