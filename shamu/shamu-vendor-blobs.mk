@@ -376,4 +376,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/firmware/aonvr2.bin:system/vendor/firmware/aonvr2.bin \
     vendor/motorola/shamu/proprietary/vendor/firmware/bcm20795_firmware.ncd:system/vendor/firmware/bcm20795_firmware.ncd \
     vendor/motorola/shamu/proprietary/vendor/firmware/bcm4354A2.hcd:system/vendor/firmware/bcm4354A2.hcd \
+    vendor/motorola/shamu/proprietary/vendor/firmware/cy8c20247_24lkxi.hex:system/vendor/firmware/cy8c20247_24lkxi.hex \
+    vendor/motorola/shamu/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
+    vendor/motorola/shamu/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
     vendor/motorola/shamu/proprietary/xbin/wlutil:system/xbin/wlutil
