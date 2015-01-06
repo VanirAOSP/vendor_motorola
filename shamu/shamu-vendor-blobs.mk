@@ -301,20 +301,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/motorola/shamu/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/motorola/shamu/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_0000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_0000 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_0001:system/bin/qmi-framework-tests/qmi_ping_clnt_test_0001 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_1000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_1000 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_1001:system/bin/qmi-framework-tests/qmi_ping_clnt_test_1001 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_clnt_test_2000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_2000 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_svc:system/bin/qmi-framework-tests/qmi_ping_svc \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_ping_test:system/bin/qmi-framework-tests/qmi_ping_test \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_test_service_clnt_test_0000:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_0000 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_test_service_clnt_test_0001:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_0001 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_test_service_clnt_test_1000:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_1000 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_test_service_clnt_test_1001:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_1001 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_test_service_clnt_test_2000:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_2000 \
-    vendor/motorola/shamu/proprietary/bin/qmi-framework-tests/qmi_test_service_test:system/bin/qmi-framework-tests/qmi_test_service_test \
-    vendor/motorola/shamu/proprietary/etc/qmi_fw.conf:system/etc/qmi_fw.conf \
     vendor/motorola/shamu/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
