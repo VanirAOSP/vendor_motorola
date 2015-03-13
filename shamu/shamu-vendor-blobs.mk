@@ -237,8 +237,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/bin/ramdump:system/bin/ramdump \
     vendor/motorola/shamu/proprietary/bin/rundiag:system/bin/rundiag \
     vendor/motorola/shamu/proprietary/bin/test_diag:system/bin/test_diag \
-    vendor/motorola/shamu/proprietary/etc/diag/FIT_V12.cfg:system/etc/diag/FIT_V12.cfg \
-    vendor/motorola/shamu/proprietary/etc/diag/mdm/FIT_V12.cfg:system/etc/diag/mdm/FIT_V12.cfg \
+    vendor/motorola/shamu/proprietary/etc/diag/mdm/FIT_V15_audio.cfg:system/etc/diag/mdm/FIT_V15_audio.cfg \
+    vendor/motorola/shamu/proprietary/etc/diag/mdm/FIT_V15.cfg:system/etc/diag/mdm/FIT_V15.cfg \
     vendor/motorola/shamu/proprietary/etc/diag/mdm/sensors_qxdm.cfg:system/etc/diag/mdm/sensors_qxdm.cfg \
     vendor/motorola/shamu/proprietary/etc/diag/sensors_qxdm.cfg:system/etc/diag/sensors_qxdm.cfg \
     vendor/motorola/shamu/proprietary/bin/qseecomd:system/bin/qseecomd \
@@ -281,12 +281,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/firmware/a420_pfp.fw:system/vendor/firmware/a420_pfp.fw \
     vendor/motorola/shamu/proprietary/vendor/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
     vendor/motorola/shamu/proprietary/etc/flp.conf:system/etc/flp.conf \
-    vendor/motorola/shamu/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/motorola/shamu/proprietary/lib/hw/gps.msm8084.so:system/lib/hw/gps.msm8084.so \
     vendor/motorola/shamu/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/motorola/shamu/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/motorola/shamu/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/motorola/shamu/proprietary/vendor/bin/gsiff_daemon:system/vendor/bin/gsiff_daemon \
     vendor/motorola/shamu/proprietary/vendor/lib/hw/activity_recognition.msm8084.so:system/vendor/lib/hw/activity_recognition.msm8084.so \
     vendor/motorola/shamu/proprietary/vendor/lib/hw/flp.msm8084.so:system/vendor/lib/hw/flp.msm8084.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
@@ -360,7 +358,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/motorola/shamu/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/motorola/shamu/proprietary/vendor/firmware/atmel-a432-14061601-0102aa-shamu-p1.tdat:system/vendor/firmware/atmel-a432-14061601-0102aa-shamu-p1.tdat \
-    vendor/motorola/shamu/proprietary/vendor/firmware/atmel-a432-14101503-0103aa-shamu.tdat:system/vendor/firmware/atmel-a432-14101503-0103aa-shamu.tdat \
+    vendor/motorola/shamu/proprietary/vendor/firmware/atmel-a432-14103001-0103aa-shamu.tdat:system/vendor/firmware/atmel-a432-14103001-0103aa-shamu.tdat \
     vendor/motorola/shamu/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/motorola/shamu/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/motorola/shamu/proprietary/bin/usbhub_init:system/bin/usbhub_init \
