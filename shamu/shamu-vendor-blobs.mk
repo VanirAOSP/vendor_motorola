@@ -359,6 +359,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/motorola/shamu/proprietary/bin/ks:system/bin/ks \
     vendor/motorola/shamu/proprietary/bin/mdm_helper:system/bin/mdm_helper \
+    vendor/motorola/shamu/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/motorola/shamu/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/motorola/shamu/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/shamu/proprietary/bin/qmuxd:system/bin/qmuxd \
